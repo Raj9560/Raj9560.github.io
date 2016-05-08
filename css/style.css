@@ -227,7 +227,7 @@ img {
 }
 .sf-menu ul li a {
   display: block;
-  padding: 5px 15px;
+  padding: 5px ==px;
   color: #000000;
 }
 /* First level sub-menu styles
@@ -479,7 +479,7 @@ img {
   float: left;
 }
 .img_2 + .img_2 {
-  margin-left: 30px;
+  /*margin-left: 30px;*/
 }
 .img_2:first-child + .img_2 + .img_2 + .img_2 {
   margin-left: 0;
