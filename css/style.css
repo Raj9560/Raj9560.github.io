@@ -200,7 +200,7 @@ img {
   position: absolute;
   display: none;
   width: 220px;
-  padding: 10px 0;
+  padding: 10px 0px 0px 5px;
   text-align: left;
   background: #ffffff;
   z-index: 2;
@@ -339,13 +339,13 @@ img {
   padding-top: 124px;
 }
 .wrap_2 {
-  padding-top: 71px;
+  padding-top: 25px;
 }
 .wrap_3 {
   padding-bottom: 34px;
 }
 .wrap_4 {
-  padding-bottom: 53px;
+  padding-bottom: 5px;
 }
 .wrap_5 {
   padding-bottom: 95px;
